@@ -1,0 +1,185 @@
+.modelos{
+  width: 100%;
+  height: 100%;
+  float:left;
+}
+
+#foto1{
+  margin-left: 50px;
+  width: 413px;
+  height: 600px;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-image:url(../images/modelo1.1.jpg);
+  color: rgb(0, 0, 0, 0.0000000000000000001);
+  float: left;
+  margin-bottom: 50px;
+  cursor: pointer;
+}
+
+#foto1 p{
+  width: 413px;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 350px;
+  margin-left: 0;
+
+  /* padding-left: 80px; */
+  /* position: absolute; */
+  transition: 1s;
+}
+
+#foto1 p:hover{
+  color:rgb(0, 0, 0);
+  background: rgba(255, 255, 255, 0.5);
+}
+
+#foto2{
+  margin-left: 20px;
+  width: 413px;
+  height: 600px;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-image:url(../images/modelo2.2.jpg);
+  color: rgb(0, 0, 0, 0.0000001);
+  float: left;
+  margin-bottom: 50px;
+  cursor: pointer;
+}
+
+#foto2 p{
+  width: 413px;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 350px;
+  margin-left: 0;
+
+  /* padding-left: 80px; */
+  /* position: absolute; */
+  transition: 1s;
+}
+
+#foto2 p:hover{
+  color:rgb(0, 0, 0);
+  background: rgba(255, 255, 255, 0.5);
+}
+
+#foto3{
+  margin-left: 20px;
+  width: 413px;
+  height: 600px;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-image:url(../images/modelo12.jpg);
+  color: rgb(0, 0, 0, 0.0000001);
+  float: left;
+  margin-bottom: 50px;
+  cursor: pointer;
+}
+
+#foto3 p{
+  width: 413px;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 350px;
+  margin-left: 0;
+
+  /* padding-left: 80px; */
+  /* position: absolute; */
+  transition: 1s;
+}
+
+#foto3 p:hover{
+  color:rgb(0, 0, 0);
+  background: rgba(255, 255, 255, 0.5);
+}
+
+#foto4{
+  margin-left: 50px;
+  width: 413px;
+  height: 600px;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-image:url(../images/modelo4.1.jpg);
+  color: rgb(0, 0, 0, 0.0000001);
+  float: left;
+  margin-bottom: 50px;
+  cursor: pointer;
+}
+
+#foto4 p{
+  width: 413px;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 350px;
+  margin-left: 0;
+
+  /* padding-left: 80px; */
+  /* position: absolute; */
+  transition: 1s;
+}
+
+#foto4 p:hover{
+  color:rgb(0, 0, 0);
+  background: rgba(255, 255, 255, 0.5);
+}
+
+#foto5{
+  margin-left: 20px;
+  width: 413px;
+  height: 600px;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-image:url(../images/modelo6.jpg);
+  color: rgb(0, 0, 0, 0.0000001);
+  float: left;
+  margin-bottom: 50px;
+  cursor: pointer;
+}
+
+#foto5 p{
+  width: 413px;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 350px;
+  margin-left: 0;
+
+  /* padding-left: 80px; */
+  /* position: absolute; */
+  transition: 1s;
+}
+
+#foto5 p:hover{
+  color:rgb(0, 0, 0);
+  background: rgba(255, 255, 255, 0.5);
+}
+
+#foto6{
+  margin-left: 20px;
+  width: 413px;
+  height: 600px;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-image:url(../images/modelo7.1.jpg);
+  color: rgb(0, 0, 0, 0.0000001);
+  float: left;
+  margin-bottom: 50px;
+  cursor: pointer;
+}
+
+#foto6 p{
+  width: 413px;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 350px;
+  margin-left: 0;
+
+  /* padding-left: 80px; */
+  /* position: absolute; */
+  transition: 1s;
+}
+
+#foto6 p:hover{
+  color:rgb(0, 0, 0);
+  background: rgba(255, 255, 255, 0.5);
+}

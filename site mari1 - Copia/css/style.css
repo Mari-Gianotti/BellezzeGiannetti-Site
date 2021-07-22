@@ -1,0 +1,1025 @@
+﻿
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Source+Sans+Pro');
+
+/* font-family: 'Source Sans Pro', sans-serif; ---------------------- Texto*/
+/* font-family: 'Playfair Display', serif; ----------- Titulo*/
+
+
+
+/* html:hover {
+  transform: rotate(-30deg) scale(0.4);
+  transition: 1s;
+} */
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.bra{
+  color: #fff;
+  text-decoration: none;
+}
+
+.topo{
+  position: fixed;
+  width: 100%;
+  height: 100px;
+  background: #000;
+  line-height: 45px;
+  padding-left: 10px;
+  float: left;
+  background-attachment: fixed;
+}
+
+.topo3{
+  position:inherit;
+  width: 100%;
+  height: 100px;
+  background: #000;
+  line-height: 45px;
+  padding-left: 10px;
+  float: left;
+  background-attachment: fixed;
+}
+.topo4{
+  position: inherit;
+  width: 100%;
+  height: 100px;
+  background: #000;
+  line-height: 45px;
+  padding-left: 10px;
+  float: left;
+  background-attachment: fixed;
+}
+
+.logo{
+  font-size: 23px;
+  color: #fff;
+  width: 300px;
+  display: inline-block;
+  font-family: 'Playfair Display', serif;
+  margin-left: 15px;
+  line-height: 100px;
+  font-weight: 300;
+}
+
+span{
+  color: red;
+}
+
+/* PROMOÇOES INICIO */
+
+.promo{
+  width: 100%;
+  height: 500px;
+}
+
+.promo div{
+  background-image: url(../images/ash.jpg);
+  width: 944px;
+  height: 500px;
+  float: left;
+}
+.promo section{
+  background: #000;
+  width: 405px;
+  height: 500px;
+  float: left;
+}
+
+.promo section h3{
+  color: #fff;
+  margin-top: 40px;
+  margin: 50px;
+  font-size: 26px;
+  font-family: 'Playfair Display';
+  /* font-family: 'Charmonman', cursive; */
+}
+
+.promo section a{
+  padding: 15px;
+  margin-left: 120px;
+  border: solid #fff 3px;
+  border-radius: 3px;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.promo1{
+  width: 100%;
+  height: 500px;
+}
+
+.promo1 div{
+  background-image: url(../images/ash2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 944px;
+  height: 500px;
+  float: right;
+}
+.promo1 section{
+  background: #000;
+  width: 405px;
+  height: 500px;
+  float: right;
+}
+
+.promo1 section h3{
+  color: #fff;
+  margin-top: 40px;
+  margin: 50px;
+  font-size: 26px;
+  font-family: 'Playfair Display';
+  /* font-family: 'Charmonman', cursive; */
+}
+
+.promo1 section a{
+  padding: 15px;
+  margin-left: 120px;
+  border: solid #fff 3px;
+  border-radius: 3px;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.promo3{
+  width: 100%;
+  height: 500px;
+}
+
+.promo3 div{
+  background-image: url(../images/ash3.jpg);
+  background-repeat: no-repeat;
+  width: 944px;
+  height: 500px;
+  float: left;
+}
+.promo3 section{
+  background: #000;
+  width: 405px;
+  height: 500px;
+  float: left;
+}
+
+.promo3 section h3{
+  color: #fff;
+  margin-top: 40px;
+  margin: 50px;
+  font-size: 26px;
+  font-family: 'Playfair Display';
+  /* font-family: 'Charmonman', cursive; */
+}
+
+.promo3 section a{
+  padding: 15px;
+  margin-left: 120px;
+  border: solid #fff 3px;
+  border-radius: 3px;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.promo4{
+  width: 100%;
+  height: 500px;
+}
+
+.promo4 div{
+  background-image: url(../images/ash4.jpg);
+  background-repeat: no-repeat;
+  width: 944px;
+  height: 500px;
+  float: right;
+}
+.promo4 section{
+  background: #000;
+  width: 405px;
+  height: 500px;
+  float: right;
+}
+
+.promo4 section h3{
+  color: #fff;
+  margin-top: 40px;
+  margin: 50px;
+  font-size: 26px;
+  font-family: 'Playfair Display';
+  /* font-family: 'Charmonman', cursive; */
+}
+
+.promo4 section a{
+  padding: 15px;
+  margin-left: 120px;
+  border: solid #fff 3px;
+  border-radius: 3px;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.promo5{
+  width: 100%;
+  height: 500px;
+}
+
+.promo5 div{
+  background-image: url(../images/ash5.jpg);
+  background-repeat: no-repeat;
+  width: 944px;
+  height: 500px;
+  float: left;
+}
+.promo5 section{
+  background: #000;
+  width: 405px;
+  height: 500px;
+  float: left;
+}
+
+.promo5 section h3{
+  color: #fff;
+  margin-top: 40px;
+  margin: 50px;
+  font-size: 26px;
+  font-family: 'Playfair Display';
+  /* font-family: 'Charmonman', cursive; */
+}
+
+.promo5 section a{
+  padding: 15px;
+  margin-left: 120px;
+  border: solid #fff 3px;
+  border-radius: 3px;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+/* PROMOÇÕES FIM */
+
+
+.texto{
+  margin-top: 20px;
+  margin-left: 100px;
+  width: 1000px;
+  text-align: justify;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.prod{
+  border: solid 1px #000;
+  width: 380px;
+  text-align: center;
+  font-size: 22px;
+  font-family: 'Playfair Display', serif;
+  margin-left: 50px;
+  float: left;
+  margin-bottom: 40px;
+  cursor: pointer;
+  transition: 0.3s;
+  color: #000;
+}
+
+.prod img{
+  width: 300px;
+  height: 300px;
+}
+
+.prod span{
+  font-size: 30px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.prod:hover{
+  box-shadow: 10px 10px 12px #000;
+  /* transform:  scale(1.01); */
+    /* transform: skewY(10deg); */
+      /* transform: scale(1, 0.6); */
+      /* transform: translate(40px, -20px); */
+      /* transform: translateY(-20px); */
+  /* zoom: 1.01; */
+}
+
+.prod1{
+  border: solid 1px #000;
+  width: 380px;
+  text-align: center;
+  font-size: 22px;
+  font-family: 'Playfair Display', serif;
+  margin-left: 50px;
+  float: left;
+  margin-bottom: 40px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.prod1 img{
+  width: 309px;
+  height: 300px;
+}
+
+.prod1 span{
+  font-size: 30px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.prod1:hover{
+  box-shadow: 10px 10px 12px #000;
+}
+
+.risco{
+  font-size: 25px;
+  color: #848081;
+  /* opacity: 0.6; */
+}
+
+#introduçao-rosto{
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 100px;
+  height: 100px;
+  padding-top: 20px;
+  /* border: 1px solid black; */
+}
+
+
+.Menu{
+  width: 832px;
+list-style:none;
+/* border:1px solid #c0c0c0; */
+float: right;
+margin-right: 70px;
+margin-top: 20px;
+padding: 7px;
+font-size: 17px;
+text-decoration: none;
+font-family: 'Playfair Display', serif;
+}
+
+.Menu li{
+position:relative;
+float:right;
+list-style: none;
+margin-left: 20px;
+
+/* border-right:1px solid #c0c0c0; */
+}
+
+.Menu li a{color:#fff; text-decoration:none; padding:5px 10px; display:block;}
+
+.Menu li a:hover{
+background:#000;
+color: red;
+transition: 0.3s;
+/* -moz-box-shadow:0 3px 10px 0 #CCC; */
+/* -webkit-box-shadow:0 3px 10px 0 #ccc; */
+/* text-shadow:0px 0px 5px #f ff; */
+}
+
+.Menu li  ul{
+position:absolute;
+top:25px;
+left:0;
+background-color:#000;
+display:none;
+}
+
+.Menu li:hover ul, .Menu li.over ul{display:block; margin-top: 30px; margin-right: 600px;   }
+
+.Menu li ul li{
+/* border:1px solid #c0c0c0; */
+display:block;
+width:130px;
+
+}
+
+.off{
+  /* box-shadow: 2px 2px 2px 0px rgba(255,255,255); */
+  transition: 0.3s;
+}
+
+.off:hover{
+  box-shadow: 2px 2px 2px 0px rgba(0,0,0);
+
+}
+
+
+.slogan{
+  background-image: url(../images/slogan.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100%;
+  height: 500px;
+}
+
+.top{
+  margin-left: 30px;
+  position: absolute;
+  top: 290px;
+  font-family: 'Playfair Display', serif;
+  font-size: 50px;
+  font-weight: 500;
+  color: #000;
+  text-align: center;
+}
+
+.anuncio1{
+  width: 1200px;
+  height: 600px;
+  background: url(../images/Imagem.jpeg);
+  margin-left: 70px;
+  margin-top: 50px;
+}
+
+.anuncio1 p{
+  color: white;
+  /* background: rgba(0, 0, 0, 0.5); */
+  text-align: right;
+  margin-right: 40px;
+  font-size: 45px;
+  font-weight: 400;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.anuncio1 a{
+  text-decoration: none;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+  background: black;
+  padding: 5px;
+  float: right;
+  color: white;
+  border-radius: 5px;
+  margin-right: 40px;
+  transition: 0.6s;
+}
+
+.anuncio1 a{
+  color: red;
+  background: white;
+  letter-spacing: 3px;
+}
+
+
+.rodape{
+  clear: both;
+  width: 100%;
+  height: 235px;
+  padding-top: 5px;
+  background: rgb(255, 0, 0, 0.85);
+  color: #000;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  background-image: url(../images/rod6.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  /* background-clip: border-box; */
+}
+
+
+.fim{
+  /* margin: px auto; */
+  width: 1500px;
+  box-sizing: border-box;
+}
+
+
+
+.todofim{
+  padding-top: 30px;
+  width: 450px;
+  float: left;
+  margin-right: 30px;
+  margin-left: 40px;
+  line-height: 15px;
+  /* border: 1px solid black; */
+}
+
+
+.todofim h3{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 25px;
+  width: 300px;
+  font-family: 'Playfair Display', serif;
+}
+
+
+.todofim p{
+  line-height: 25px;
+  text-align: justify;
+  font-size: 18px;
+}
+
+
+.esquerda{
+  margin-left: 120px;
+  width: 310px;
+  height: 200px;
+
+ /* border: 1px solid black; */
+  /* margin-right: 40px; */
+ }
+
+ .esquerda h3{
+   line-height: 30px;
+ }
+
+ .esquerda a{
+   width: 100px;
+   font-family: 'Playfair Display', serif;
+   text-decoration: none;
+   color: black;
+   font-size: 25px;
+   margin-left: 60px;
+   font-weight: 600;
+   border-bottom: 1px solid #000;
+   /* text-shadow:0px 0px 5px #f241dd; */
+   /* border: 1px solid black; */
+ }
+
+
+.esquerda1{
+   margin-left: 0;
+   width:204px;
+   float: left;
+   padding-left: 10px;
+   /* border: 1px solid #000; */
+}
+
+.esquerda1 img{
+  /* margin: 20px; */
+  cursor:pointer;
+   margin-left: 285px;
+   margin-top: 8px;
+}
+
+.esquerda1 h3{
+  margin-left: 100px;
+}
+
+#maisvendidos{
+  margin-bottom: 850px;
+}
+
+.introduçaoe{
+  font-family: 'Playfair Display', serif;
+  width: 500px;
+  color: #fff;
+  padding: 15px;
+  background:#000;
+  font-size: 45px;
+  font-weight: 500;
+  /* margin-left: 20px; */
+  margin-top: 50px;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+  /* border-radius: 2px; */
+}
+
+.introduçaod{
+  font-family: 'Playfair Display', serif;
+  width: 500px;
+  color: white;
+  padding: 15px;
+  margin-left: 819px;
+  background: #ff0000;
+  font-size: 45px;
+  font-weight: 500;
+  text-align: right;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+  /* margin-left: 20px; */
+  margin-top: 50px;
+  /* border-radius: 2px; */
+}
+
+
+
+.categorias{
+  width: 800px;
+  height: 100px;
+  font-family: 'Playfair Display', serif;
+  font-size: 35px;
+  margin-left: 190px;
+  margin-top: 90px;
+  text-align: center;
+  border-bottom: 2px solid black;
+  font-weight: 500;
+}
+
+#f img{
+  width: 200px;
+  height: 200px;
+}
+
+/* .modelos img{
+  width: 1200px;
+  height: 666px;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+
+.modelos{
+  color: rgb(0, 0, 0, 0.1);
+  transition: 1s;
+}
+
+#texto {
+position: absolute;
+margin-top: -340px;
+margin-left: 200px;
+font-size: 80px;
+}
+
+.modelos:hover{
+  color: #000;
+} */
+
+
+
+/* ----------------- Rosto ------------------- */
+
+.container{
+ width: 100%;
+ height: auto;
+ /* border: 1px solid black; */
+}
+
+.container div{
+  width: 100%;
+  height: 533px;
+  /* margin-top: 15px; */
+  /* border-radius: 3px; */
+  /* border: 1px solid black; */
+  background: white;
+  margin-top: 10px;
+}
+
+.container div img{
+  width: 300px;
+  height: 300px;
+}
+
+/* ----------------- Cabelo ------------------- */
+
+.container1{
+ width: 100%;
+ height: auto;
+ /* border: 1px solid black; */
+}
+
+.container1 div{
+  width: 100%;
+  height: 533px;
+  margin-top: 20px;
+  /* border: 1px solid black; */
+
+}
+
+.container1 div img{
+  width: 300px;
+  height: 300px;
+}
+
+/* ----------------- Perfume ------------------- */
+
+.container2{
+ width: 100%;
+ height: auto;
+ /* border: 1px solid black; */
+}
+
+.container2 div{
+  width: 100%;
+  height: 533px;
+  margin-top: 20px;
+  /* border: 1px solid black; */
+
+}
+
+.container2 div img{
+  width: 300px;
+  height: 300px;
+}
+
+/* ----------------- Pele ------------------- */
+
+.container3{
+ width: 100%;
+ height: auto;
+ /* border: 1px solid black; */
+}
+
+.container3 div{
+  width: 100%;
+  height: 533px;
+  margin-top: 20px;
+  /* border: 1px solid black; */
+
+}
+
+.container3 div img{
+  width: 300px;
+  height: 300px;
+}
+
+/* ------------------------------form---------------------------- */
+
+/* font-family: 'Source Sans Pro', sans-serif; ---------------------- Texto*/
+/* font-family: 'Playfair Display', serif; ----------- Titulo*/
+
+
+
+.formulario{
+  width: 500px;
+  height: auto;
+  margin-top: 50px;
+  margin-left: 440px;
+  line-height: 30px;
+  border: 3px solid black;
+  border-radius: 3px;
+}
+
+.formulario h3{
+  font-family: 'Playfair Display', serif;
+  font-size: 29px;
+  text-align: center;
+  color: red;
+}
+
+.formulario label{
+  margin-right: 10px;
+}
+
+.formulario label, p{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+  margin-left: 15px;
+}
+
+.botao1{
+  font-size: 18px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  padding: 4px;
+  border-radius: 3px;
+  background: white;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.botao1:hover{
+  /* font-size: 20px; */
+  /* letter-spacing: 0.5px; */
+  /* transform:  scale(1.02); */
+  border: 1px solid white;
+}
+
+.mai{
+  margin-left: 10px;
+  color: black;
+}
+
+/* -------------------------NÃO APAGA ESSA MERDA ------------------ */
+
+.inform0{
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  display: inline;
+  text-align: justify;
+  /* margin-top: 500px; */
+
+}
+
+.prodd0{
+  width: 400px;
+  height: 400px;
+  float: left;
+  margin-bottom: 90px;
+  margin-top: 100px;
+  margin-left: 120px;
+  border: 1px solid black;
+  /* border-radius: 2px; */
+}
+
+.prodd0 img{
+  width: 400px;
+  height: 400px;
+}
+
+.c3po{
+  width: 700px;
+  height: 400px;
+  float: left;
+  /* border: 1px solid black; */
+  line-height: 30px;
+  margin-left: 20px;
+  margin-top: 100px;
+}
+
+.c3po1{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 23px;
+  list-style: none;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 30px;
+  font-weight: 600;
+  /* margin-bottom: 10px; */
+}
+
+.c3po span{
+  color: #ff0000;
+  font-size: 40px;
+}
+
+.nome1{
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 30px;
+  /* font-weight: 2500px; */
+  margin-top: 10px;
+  margin-bottom: 80px;
+}
+
+.c3po a{
+  text-decoration: none;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px;
+  color: red;
+  border: 2px solid red;
+  border-radius: 3px;
+  margin-left: 20px;
+  padding: 5px;
+  font-weight: 600;
+  transition: 0.5s;
+}
+
+
+.c3po a:hover{
+  background: red;
+  color: white;
+  letter-spacing: 2px;
+}
+
+
+/*-------------------- MODELOS --------------------*/
+
+.wrapper{
+  width: 100%;
+  height: 600px;
+  margin: 30px auto;
+
+}
+
+.frente img{
+  width: 413px;
+  height: 600px;
+  border-radius: 5px;
+  position: relative;
+}
+
+.flip{
+  width: 413px;
+  height: 600px;
+  float: left;
+  margin-left: 35px;
+  margin-bottom: 50px;
+}
+
+.frente{
+  position: absolute;
+  width: 400px;
+  height: 270px;
+
+  text-align: center;
+  transform: perspective(600px) rotateY(0deg);
+  backface-visibility: hidden;
+  transition: transform .9s linear 0s;
+}
+
+.fundo{
+  position: absolute;
+  transform: perspective(600px) rotateY(-180deg);
+  background: rgb(255, 255, 255, 0.9);
+  width: 400px;
+  height: 600px;
+  color: black;
+  text-align: justify;
+  border-radius: 5px;
+  border: 1px solid black;
+  backface-visibility: hidden;
+  transition: transform .9s linear 0s;
+}
+
+.fundo h3{
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-top: 50px;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-size: 50px;
+  color: red;
+}
+
+.fundo p{
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-top: 50px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 100px;
+}
+
+.fundo a{
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-left: 30px;
+  border: 2px solid red;
+  color: red;
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 5px;
+  font-weight: 600;
+}
+
+.flip:hover .frente{
+  transform: perspective(600px) rotateY(180deg);
+  cursor: pointer;
+}
+
+.flip:hover .fundo{
+  transform: perspective(600px) rotateY(0deg);
+  cursor: pointer;
+}
+
+/* GALERIA */
+
+.Time{
+  margin-top: 80px;
+}
+
+.Time h3{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 50px;
+  color: red;
+  text-align: center;
+  font-weight: 500;
+}
+
+.Galeria{
+  width: 1325px;
+  height: 400px;
+  margin-left: 10px;
+  margin-top: 10px;
+  /* text-align: center; */
+  float: left;
+  /* border: 1px solid black; */
+}
+.Galeria section{
+  width: 411px;
+  height: 300px;
+  display: inline;
+  float: left;
+
+}
+
+.Galeria h6{
+  font-size: 16px;
+  margin-top: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.pe{
+  margin-left: 90px;
+}
+
+.Galeria img{
+  width: 300px;
+  height: 300px;
+  transition: 0.5s;
+  border-radius: 10px;
+  border: 1px solid black;
+
+}
+
+.Galeria img:hover{
+
+  transform: scale(1.1);
+}
